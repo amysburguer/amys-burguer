@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -6,8 +5,9 @@
     <title>AMYS BURGUER</title>
 </head>
 <body>
-    <h1>Bienvenidos a Amy's Burguer</h1>
-    <p>Disfruta de nuestras deliciosas hamburguesas.</p>
-    <img src="https://github.com/amysburguer/amys-burguer/blob/main/imagen_2024-12-20_163737470.png?raw=true" alt="Imagen desde GitHub" width="400">
+    <h1>MENU</h1>
+    <!-- Asegúrate de poner la URL correcta de tu imagen aquí -->
+    <img src="https://github.com/tu-usuario/tu-repositorio/raw/main/WhatsApp%20Image%202024-12-18%20at%2012.42.43%20PM.jpeg" alt="Imagen de WhatsApp" width="400">
 </body>
 </html>
+
